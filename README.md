@@ -1,5 +1,12 @@
 # pinia-tasks
 
+## Example
+https://whimsical-pony-dc1857.netlify.app
+
+# Run
+npm run build to deploy into netlify
+drag and drop .dist folder int netlify
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
